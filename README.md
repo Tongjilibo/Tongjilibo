@@ -7,4 +7,4 @@
 - 💬 Ask me about bert4torch.
 - 📫 How to reach me: 
   - Email：573783176@qq.com 
-  - Wechat：tongjilibo
+  - Wechat：Tongjilibo
