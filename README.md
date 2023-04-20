@@ -5,5 +5,5 @@
 - 🔭 I’m currently working on bert4torch.
 - 🌱 I’m currently learning NLP and REC.
 - 📫 How to reach me: 
-  - Email：573783176@qq.com 
+  - Email：tongjilibo@163.com 
   - Wechat：Tongjilibo
