@@ -10,4 +10,4 @@
 - 🌱 I’m currently learning NLP and REC.
 - 📫 How to reach me: 
   - Email：tongjilibo@163.com 
-  - Wechat：Tongjilibo
+  - Wechat：[Tongjilibo](./wechat.jpg)
